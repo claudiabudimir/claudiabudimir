@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @claudiabudimir
-- 👀 I’m interested in coding using C++ language but also I'm a web developer enthusiast
-- 🌱 I’m currently learning "how to React"(JavaScript library)
+- 👀 I’m a C++ enthusiast
 - 💞️ I’m looking to collaborate 
 - 📫 How to reach me claudiabudimir1354@gmail.com
 
